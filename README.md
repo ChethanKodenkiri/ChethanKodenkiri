@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer</h>
 <img align="center" alt="chill lofi" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethankodenkiri" alt="chethankodenkiri" /></a> </p>
+
 
 - 🔭 I’m currently working on **Air Bnb Clone**
 
