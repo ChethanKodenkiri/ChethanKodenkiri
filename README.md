@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chathan Kodenkiri</h1>
-<h3 align="center">A passionate full stack developer</h>
+<h3 align="center">A passionate full stack developer</h3>
 <img align="center" alt="chill lofi" width="200" src="https://user-images.githubusercontent.com/74038190/214374696-9dd6ec4e-bece-43b1-a57e-13b191cf49eb.jpg">
 
 
