@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on Air Bnb Clone<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about React, Express, C, Java, Python, Selenium<br>⚡ Fun fact I do UI design in Adobe Xd, Video editing in Pr, AE and Matte painting In PS
+<h1 align="center">Hi 👋, I'm Chathan Kodenkiri</h1>
+<h3 align="center">A passionate full stack developer</h3>
+
+- 🔭 I’m currently working on **Air Bnb Clone**
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 💬 Ask me about **React, Express, JavaScript, C, Java, Python and Football**
+
+- 📫 How to reach me **chethankodenkiri@gmail.com**
+
+- ⚡ Fun fact **I do UI design using Adobe XD, Video editing in Pr, AE and Matte Painting in PS.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/chethan_kodnkri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chethan_kodnkri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chethan-kodenkiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chethan-kodenkiri" height="30" width="40" /></a>
+<a href="https://instagram.com/chethan_kodenkiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chethan_kodenkiri" height="30" width="40" /></a>
+<a href="https://www.behance.net/chethankodenki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="chethankodenki" height="30" width="40" /></a>
+</p>
 
 
 ## 🌐 Socials:
