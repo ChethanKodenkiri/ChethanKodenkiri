@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chathan Kodenkiri</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<img align="right" alt="chill lofi" width="400" src="https://tenor.com/view/lofi-girl-lofi-study-gif-22173420" alt="chethankodenkiri" />
+<img align="right" alt="chill lofi" width="400" src="https://tenor.com/view/lofi-girl-lofi-study-gif-22173420"/>
 
-<div class="tenor-gif-embed" data-postid="22173420" data-share-method="host" data-aspect-ratio="1.12281" data-width="100%"><a href="https://tenor.com/view/lofi-girl-lofi-study-gif-22173420">Lofi Girl Lofi GIF</a>from <a href="https://tenor.com/search/lofi+girl-gifs">Lofi Girl GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethankodenkiri" alt="chethankodenkiri" /></a> </p>
 
