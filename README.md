@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chathan Kodenkiri</h1>
-<h3 align="center">A passionate full stack developer</h3>
-
-<img align="right" alt="chill lofi" width="400" src="https://tenor.com/view/lofi-girl-lofi-study-gif-22173420">
-
+<h3 align="center">A passionate full stack developer</h>
+<img align="right" alt="chill lofi" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethankodenkiri" alt="chethankodenkiri" /></a> </p>
 
