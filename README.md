@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chethankodenkiri@gmail.com**
 
-- ⚡ Fun fact **I do UI design using Adobe XD, Video editing in Pr, AE and Matte Painting in PS.**
+- ⚡ Fun fact **I do UI design using Adobe XD, Video editing in Pr, AE and Graphic Design, Matte Painting in PS.**
 
 
 ## 🌐 Socials:
