@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Air Bnb Clone**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Next JS with TypeScript**
 
 - 💬 Ask me about **React, Express, JavaScript, C, Java, Python and Football**
 
