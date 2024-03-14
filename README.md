@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chethan Kodenkiri</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **AI Chat Bt**
+- 🔭 I’m currently working on **AI Chat Bot**
 
 - 🌱 I’m currently learning **Next JS with TypeScript**
 
