@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Django Note App Project**
 
-- 🌱 I’m currently learning **Next JS with TypeScript**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **React, Express, JavaScript, C, Java, Python and Football**
 
