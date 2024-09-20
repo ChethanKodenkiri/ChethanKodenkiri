@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chethan Kodenkiri</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **Django + React Note App Project**
+- 🔭 I’m currently working on **Bank Project**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Java Springboot**
 
 - 💬 Ask me about **React, Express, JavaScript, C, Java, Python and Football**
 
