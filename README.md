@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chethan Kodenkiri</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A developer</h3>
 
 - 🔭 I’m currently working on **Bank Project**
 
 - 🌱 I’m currently learning **Java Springboot**
 
-- 💬 Ask me about **React, Express, JavaScript, C, Java, Python and Football**
+- 💬 Ask me about **React, Node Js, Express, JavaScript, Typescript C, Java, Python and Football**
 
 - 📫 How to reach me **chethankodenkiri.career@gmail.com**
 
